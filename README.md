@@ -20,8 +20,8 @@ RetroDrive-Code/
 ├── floppy/
 │   └── workbench-edition/
 │       ├── v1.0/
-│       │   ├── windows/
-│       │   └── macos/
+│       │   ├── Start_RetroDrive.bat
+│       │   ├── Start_RetroDrive.command
 │       ├── README.md
 │       └── CHANGELOG.md
 │
