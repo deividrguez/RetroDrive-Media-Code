@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS metadata
+._*
+
+# Thumbnails
+Icon?
+
+# Spotlight
+.Spotlight-V100
+
+# Trash
+.Trashes
+
+# Temporary files
+*.tmp
+*.temp
